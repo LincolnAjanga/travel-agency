@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+.intro {
+	text-decoration: underline;
+	color: rgb(247, 50, 94);
+	font-family: 'Raleway';
+	text-align: center
+}
+body{
+	background: url("mars.jpg");
+	color: white;
+}
+
+h2 {
+	text-decoration: underline;
+	color: rgb(247, 50, 94);
+}
+
+.hat {
+	height: 440px;
+	width: 440px;
+}
+.button {
+	height: 30px;
+	width: 440px;
+	background-color: : red;
+
+}
